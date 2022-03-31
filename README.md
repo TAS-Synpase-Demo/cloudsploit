@@ -68,7 +68,7 @@ CloudSploit by Aqua is an open-source project designed to allow detection of sec
 ## Deployment Options
 CloudSploit is available in two deployment options:
 
-### Self-Hosted
+### Self-Hosteddh
 Follow the instructions below to deploy the open-source version of CloudSploit on your machine in just a few simple steps.
 
 ### Hosted at Aqua Wave
