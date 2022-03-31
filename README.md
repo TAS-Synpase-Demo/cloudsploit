@@ -335,7 +335,7 @@ $ ./index.js --suppress *:us-east-1:*
 $ ./index.js --suppress *:*:certificate/*
 ```
 
-## Running a Single Plugin
+## Running a Singlenb Plugin
 The `--plugin` flag can be used if you only wish to run one plugin.
 ```
 $ ./index.js --plugin acmValidation
