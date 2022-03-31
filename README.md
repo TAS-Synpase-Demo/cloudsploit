@@ -82,7 +82,7 @@ $ git clone git@github.com:cloudsploit/scans.git
 $ npm install
 ```
 
-## Configuration
+## Configurationa
 CloudSploit requires read-only permission to your cloud account. Follow the guides below to provision this access:
 
 * [Amazon Web Services](docs/aws.md#cloud-provider-configuration)
