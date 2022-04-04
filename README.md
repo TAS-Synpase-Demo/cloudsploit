@@ -352,3 +352,5 @@ The `--remediate` flag can be used if you want to run remediation for the plugin
 Please see our [developing remediation guide](docs/writing-remediation.md) for more details.
 ## Other Notes
 For other details about the Aqua Wave SaaS product, AWS security policies, and more, [click here](docs/notes.md).
+
+
