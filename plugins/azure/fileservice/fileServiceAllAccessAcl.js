@@ -41,7 +41,7 @@ module.exports = {
             }
 
             storageAccounts.data.forEach(function(storageAccount){
-                // Attempt to list keys to see if future calls will succeed
+                // Attempt to list keys to see if future calls will succe
                 var listKeys = helpers.addSource(cache, source,
                     ['storageAccounts', 'listKeys', location, storageAccount.id]);
 
