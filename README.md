@@ -177,7 +177,7 @@ To run a standard scan, showing all outputs and results, simply run:
 $ ./index.js
 ```
 
-## CLI Options
+## CLI Options.
 CloudSploit supports many options to customize the run time. Some popular options include:
 * AWS GovCloud support: `--govcloud`
 * AWS China support: `--china`
