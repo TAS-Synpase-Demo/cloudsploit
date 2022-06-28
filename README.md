@@ -74,7 +74,7 @@ Follow the instructions below to deploy the open-source version of CloudSploit o
 ### Hosted at Aqua Wave
 A commercial version of CloudSploit hosted at Aqua Wave. Try [Aqua Wave](https://cloud.aquasec.com/signup) today!
 
-## Installation
+## Installation.
 Ensure that NodeJS is installed. If not, install it from [here](https://nodejs.org/download/).
 
 ```
