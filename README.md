@@ -261,7 +261,7 @@ $ ./index.js --compliance=pci
 ```
 PCI scans map CloudSploit plugins to the Payment Card Industry Data Security Standard.
 
-### CIS Benchmarks
+### CIS Benchmark
 ```
 $ ./index.js --compliance=cis
 $ ./index.js --compliance=cis1
